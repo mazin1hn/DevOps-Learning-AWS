@@ -1,0 +1,52 @@
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Credentials & secrets
+# =========================
+*.pem
+*.key
+*.ppk
+.env
+.env.*
+aws-credentials*
+credentials
+config
+
+# =========================
+# Terraform
+# =========================
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+terraform.tfvars.json
+crash.log
+
+# =========================
+# CloudFormation / SAM
+# =========================
+.aws-sam/
+packaged.yaml
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# Node / Python 
+# =========================
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.envrc
