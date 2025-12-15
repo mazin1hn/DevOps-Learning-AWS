@@ -1,4 +1,4 @@
-# Assignment 1 – # AWS VPC Networking Architecture (Public & Private Subnets)
+# Assignment 1 –  AWS VPC Networking Architecture (Public & Private Subnets)
 
 ## Overview
 This assignment demonstrates a full custom AWS network built from scratch.  
