@@ -1,4 +1,4 @@
-# Assignment 2 – Application Load Balancer & High Availability
+# Assignment 2 – # Highly Available Web Architecture with ALB and Auto Scaling
 
 ## Overview
 This assignment demonstrates a common DevOps architecture pattern: multiple EC2 instances deployed behind an Application Load Balancer (ALB).  
