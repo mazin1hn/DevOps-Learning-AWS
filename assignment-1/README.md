@@ -17,7 +17,8 @@ An Internet Gateway provides inbound access to public resources, while a NAT Gat
 
 The public EC2 instance also acts as a bastion host, allowing secure SSH access to the private EC2.
 
-See the architecture diagram in: [View Architecture Diagram](architecture/vpc-architecture.png)
+See the architecture diagram in:  
+[View Architecture Diagram](architecture/vpc-architecture.png)
 
 
 
@@ -49,8 +50,9 @@ See the architecture diagram in: [View Architecture Diagram](architecture/vpc-ar
 - Launched a private EC2 instance in the private subnet without a public IPv4 address
 - EC2 user data scripts were used to automate instance bootstrapping
 
-User data scripts can be found in: -  [Public EC2 User Data](user-data/public-ec2-user-data.sh)
-                                   &  [Private EC2 User Data](user-data/private-ec2-user-data.sh)
+User data scripts can be found in:  
+[Public EC2 User Data](user-data/public-ec2-user-data.sh)  
+[Private EC2 User Data](user-data/private-ec2-user-data.sh)
 
 
 
@@ -61,14 +63,12 @@ User data scripts can be found in: -  [Public EC2 User Data](user-data/public-ec
 
 
 
-## Bonus Features
-
-### Bastion Host
+### 6. Bastion Host
 The public EC2 instance also functions as a bastion host, enabling secure SSH access to the private EC2 instance without exposing it to the internet.
 
 
 
-### CloudWatch Monitoring
+### 7. CloudWatch Monitoring
 Detailed CloudWatch monitoring was enabled on both EC2 instances to validate resource activity and network traffic.
 
 This included:
@@ -84,7 +84,8 @@ CloudWatch metrics were used to confirm:
 
 
 ## Implementation Evidence
-Step-by-step screenshots documenting the full setup are available in:  [View Implementation Screenshots](screenshots/)
+Step-by-step screenshots documenting the full setup are available in:  
+[View Implementation Screenshots](screenshots/)
 
 These include:
 - [VPC Creation](screenshots/01-vpc.png)
