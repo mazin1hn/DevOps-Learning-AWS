@@ -88,11 +88,11 @@ Step-by-step screenshots documenting the full setup are available in:
 [View Implementation Screenshots](screenshots/)
 
 These include:
-- [VPC Creation](screenshots/01-vpc.png)
-- [Subnets](screenshots/02-subnets.png)
-- [NAT Gateway](screenshots/05-nat-gateway.png)
-- [Public EC2 HTTP Access](screenshots/09-public-ec2-http.png)
-- [CloudWatch Metrics](screenshots/13-cloudwatch-metrics.png)
+-  VPC Creation
+-  Subnets
+-  NAT Gateway
+-  Public EC2 HTTP Access
+-  CloudWatch Metrics
 
 
 
