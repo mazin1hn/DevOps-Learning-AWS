@@ -112,3 +112,10 @@ A key challenge was diagnosing failed health checks when using Auto Scaling Grou
 This was resolved by ensuring instances had outbound internet access for user data execution and by correctly configuring security groups and health check paths.
 
 Another challenge was understanding the separation between traffic flow and instance lifecycle management, which was clarified by distinguishing the responsibilities of the ALB, target group, and Auto Scaling Group.
+
+
+
+## Security Notice
+All sensitive information displayed in this assignment (including API keys, ARNs, account IDs, IP addresses, and domain records) has been **rotated, revoked, or removed** after validation and testing.
+
+This repository does not contain any active credentials or publicly accessible production resources.

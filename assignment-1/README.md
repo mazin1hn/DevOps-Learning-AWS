@@ -107,3 +107,10 @@ These include:
 ## Challenges and Solutions
 A key challenge was understanding why private EC2 instances cannot access the internet directly.  
 This was resolved by configuring a NAT Gateway in the public subnet and associating the correct route table with the private subnet.
+
+
+
+## Security Notice
+All sensitive information displayed in this assignment (including API keys, ARNs, account IDs, IP addresses, and domain records) has been **rotated, revoked, or removed** after validation and testing.
+
+This repository does not contain any active credentials or publicly accessible production resources.

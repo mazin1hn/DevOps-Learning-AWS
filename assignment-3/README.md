@@ -110,3 +110,9 @@ This was resolved by learning how CloudFront caching works and performing cache 
 
 Another challenge was differentiating between CloudFront Functions and Lambda@Edge.  
 This was addressed by using CloudFront Functions for lightweight response modifications such as security headers, while recognising that Lambda@Edge is more suitable for complex request and response logic.
+
+
+## Security Notice
+All sensitive information displayed in this assignment (including API keys, ARNs, account IDs, IP addresses, and domain records) has been **rotated, revoked, or removed** after validation and testing.
+
+This repository does not contain any active credentials or publicly accessible production resources.

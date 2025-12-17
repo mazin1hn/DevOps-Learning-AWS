@@ -143,3 +143,10 @@ This was addressed by carefully mapping stages and verifying method-level API ke
 
 Configuring the custom domain required understanding ACM certificate validation and DNS propagation through Cloudflare.  
 This was resolved by validating the certificate, creating correct CNAME records, and allowing time for DNS updates to propagate.
+
+
+
+## Security Notice
+All sensitive information displayed in this assignment (including API keys, ARNs, account IDs, IP addresses, and domain records) has been **rotated, revoked, or removed** after validation and testing.
+
+This repository does not contain any active credentials or publicly accessible production resources.
