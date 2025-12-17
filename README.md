@@ -29,27 +29,28 @@ Each assignment is contained in its own directory and includes:
 ```text
 .
 ├── assignment-1/
-│   ├── README.md
 │   ├── architecture/
 │   ├── screenshots/
-│   └── user-data/
+│   ├── user-data/
+│   └── README.md
 │
 ├── assignment-2/
-│   ├── README.md
 │   ├── architecture/
 │   ├── screenshots/
-│   └── user-data/
+│   ├── user-data/
+│   └── README.md
 │
 ├── assignment-3/
-│   ├── README.md
-│   ├── architecture/
-│   └── screenshots/
-│
-├── assignment-4/
-│   ├── README.md
-│   ├── architecture/
+│   ├──architecture/
 │   ├── screenshots/
-│   └── lambda/
+│   ├── website/
+│   └── README.md
+│ 
+├── assignment-4/
+│   ├── architecture/
+│   ├── lambda-code/
+│   ├── screenshots/
+│   └── README.md
 │
 └── README.md
 
