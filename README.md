@@ -1,4 +1,4 @@
-# DevOps-Learning-AWS
+# DevOps AWS Learning
 
 ## Overview
 This repository documents my hands-on learning journey in AWS and DevOps through structured, production-style assignments.
