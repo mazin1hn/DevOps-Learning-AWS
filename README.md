@@ -1,7 +1,7 @@
-# DevOps AWS Learning
+# AWS 
 
 ## Overview
-This repository documents my hands-on learning journey in AWS and DevOps through structured, production-style assignments.
+This repository documents my hands-on implemenattion of AWS DevOps through structured, production-style assignments.
 
 Each assignment focuses on a specific cloud architecture or core DevOps concept and is implemented using fully managed AWS services, following best practices around security, scalability, availability, and observability.
 
